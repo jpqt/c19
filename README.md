@@ -68,18 +68,20 @@ pip install bip44
 ---
 
 ## Fintech Professional
-![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/1.png?raw=true "Testing the bot")
-* Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
+![Alt text](https://github.com/jpqt/c19/blob/main/Images/2.png)
 
 
+## Validated Transaction Hash
+![Alt text](https://github.com/jpqt/c19/blob/main/Images/1.png)
 
-![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/2.png "Testing the bot")
-
-* Verify the block contents and hashes in the Streamlit drop-down menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. 
-
+## Sample Account
 ![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
 
-* Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain.
+## Sample Transaction
+![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
+
+## Transaction Details
+![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
 
 ---
 
