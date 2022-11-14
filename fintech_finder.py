@@ -25,6 +25,8 @@
 
 ################################################################################
 # Imports
+import os
+from dotenv import load_dotenv
 import streamlit as st
 from dataclasses import dataclass
 from typing import Any, List
@@ -317,4 +319,3 @@ get_people(w3)
     # * Click the transaction and take a screenshot of it.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
-
