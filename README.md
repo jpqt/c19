@@ -75,13 +75,13 @@ pip install bip44
 ![Alt text](https://github.com/jpqt/c19/blob/main/Images/1.png)
 
 ## Sample Account
-![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
+![Alt text](https://github.com/jpqt/c19/blob/main/Images/3.png)
 
 ## Sample Transaction
-![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
+![Alt text](https://github.com/jpqt/c19/blob/main/Images/5.png)
 
 ## Transaction Details
-![Alt text](https://github.com/jpqt/Challenge-18/blob/main/photo/3.png "Testing the bot")
+![Alt text](https://github.com/jpqt/c19/blob/main/Images/4.png)
 
 ---
 
